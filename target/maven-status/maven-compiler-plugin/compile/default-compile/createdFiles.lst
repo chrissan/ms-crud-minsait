@@ -1,0 +1,9 @@
+com/crudminsait/repository/IEmpleadoRepository.class
+com/crudminsait/config/Configurations.class
+com/crudminsait/controller/CrudminsaitController.class
+com/crudminsait/CrudminsaitApplication.class
+com/crudminsait/service/impl/CrudMinsaitServiceImpl.class
+com/crudminsait/repository/IAutoRepository.class
+com/crudminsait/service/ICrudminsaitService.class
+com/crudminsait/entities/Auto.class
+com/crudminsait/entities/Empleado.class
