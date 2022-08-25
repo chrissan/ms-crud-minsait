@@ -119,6 +119,26 @@
 			"response": []
 		},
 		{
+			"name": "/autos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/minsait/autos",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"minsait",
+						"autos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "/empleado/{id}",
 			"request": {
 				"method": "PUT",
